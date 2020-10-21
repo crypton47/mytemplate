@@ -63,6 +63,7 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="20px">{{{outro}}}</mj-text>
+        <mj-image src="https://mjml.io/assets/img/easy-and-quick.png" width="100px"></mj-image>
       </mj-column>
     </mj-section>
   </mj-body>
