@@ -1,21 +1,6 @@
 <mjml>
   <mj-body background-color="#E1E8ED">
     <mj-raw>
-      <!-- Header -->
-    </mj-raw>
-    <mj-section padding-bottom="0px" background-color="white">
-      <mj-column width="100%">
-        <mj-image src="https://github.com/crypton47/mytemplate/blob/main/logo.png" width="50px"></mj-image>
-        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="#f8f8f8"></mj-divider>
-      </mj-column>
-    </mj-section>
-    <mj-section padding-bottom="0px" background-color="#fcfcfc">
-      <mj-column width="100%">
-        <mj-text align="center" font-size="20px" color="grey" font-family="Helvetica Neue" font-weight="200">Here is what you've missed</mj-text>
-        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="#f8f8f8"></mj-divider>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
       <!-- Article -->
     </mj-raw>
     <mj-section background-color="white">
