@@ -5,7 +5,7 @@
     </mj-raw>
     <mj-section padding-bottom="0px" background-color="white">
       <mj-column width="100%">
-        <mj-image src="https://avatars0.githubusercontent.com/u/16115896?v=3&s=200" width="50px"></mj-image>
+        <mj-image src="https://github.com/crypton47/mytemplate/blob/main/logo.png" width="50px"></mj-image>
         <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="#f8f8f8"></mj-divider>
       </mj-column>
     </mj-section>
