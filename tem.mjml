@@ -16,7 +16,7 @@
 
       {{#each items}}
         <!-- Entry -->
-        <mj-section backgroud-color="white">
+        <mj-section background-color="white">
           <mj-column>
             <mj-text>
               <a href="{{this.link}}">{{this.title}}</a>
