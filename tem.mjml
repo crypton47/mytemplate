@@ -4,10 +4,10 @@
       <!-- Article -->
     </mj-raw>
     <mj-section background-color="white">
-      <mj-column width="130px">
+      <mj-column width="500px">
         <mj-image src="https://mjml.io/assets/img/responsive.png" width="100px"></mj-image>
       </mj-column>
-      <mj-column width="350px">
+      <mj-column width="500px">
         <mj-text align="center" font-size="30px" color="grey"> Avis de Securite </mj-text>
       </mj-column>
     </mj-section>
@@ -24,8 +24,8 @@
         <mj-image src="https://cloud.githubusercontent.com/assets/6558790/12450760/ee034178-bf85-11e5-9dda-98d0c8f9f8d6.png"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#660066" padding-top="8px">
-      <mj-column width="350px">
+    <mj-section background-color="#AF78BF" padding-top="8px">
+      <mj-column width="500px">
         <mj-text align="center" font-size="12px" color="white"> Contact us: DLT-WW-CYBERDEFENCE@ma.webhelp.com </mj-text>     
       </mj-column>
     </mj-section>
