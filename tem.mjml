@@ -12,7 +12,7 @@
       </mj-column>
     </mj-section>
 
-     
+     {{#each feeds}}
 
       {{#each items}}
         <!-- Entry -->
@@ -26,6 +26,7 @@
           </mj-column>
         </mj-section>
       {{/each}}
+    {{/each}}
 
       
      
