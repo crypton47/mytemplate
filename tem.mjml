@@ -27,7 +27,6 @@
         </mj-section>
       {{/each}}
 
-    {{/each}}
       
      
     <mj-section background-color="#572C64" padding-top="8px">
