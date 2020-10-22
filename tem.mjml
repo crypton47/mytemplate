@@ -37,18 +37,7 @@
 
     {{/each}}
       
-      
-    
-    <mj-section padding-bottom="0px" background-color="#f3f3f3">
-      <mj-column>
-        <mj-text align="center" font-size="20px" color="rgb(165, 176, 184)">Explore our new features</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding-top="0" background-color="#f3f3f3">
-      <mj-column width="100%">
-        <mj-image src="https://cloud.githubusercontent.com/assets/6558790/12450760/ee034178-bf85-11e5-9dda-98d0c8f9f8d6.png"></mj-image>
-      </mj-column>
-    </mj-section>
+     
     <mj-section background-color="#572C64" padding-top="8px">
       <mj-column width="500px">
         <mj-text align="center" font-size="12px" color="white"> Contact us : DLT-WW-CYBERDEFENCE@ma.webhelp.com </mj-text>     
