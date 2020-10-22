@@ -4,6 +4,9 @@
       <!-- Article -->
     </mj-raw>
     <mj-section >
+        <mj-column width="500px">
+        <mj-image align="center" src="https://raw.githubusercontent.com/crypton47/mytemplate/main/logo2.png?raw=true">
+      </mj-column>
       <mj-column width="500px">
         <mj-text align="center" font-size="30px" color="white"> Avis de Securite </mj-text>
       </mj-column>
