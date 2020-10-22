@@ -24,18 +24,9 @@
         <mj-image src="https://cloud.githubusercontent.com/assets/6558790/12450760/ee034178-bf85-11e5-9dda-98d0c8f9f8d6.png"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#fcfcfc" padding-top="10px">
+    <mj-section background-color="grey" padding-top="10px">
       <mj-column width="350px">
-        <mj-text align="left" font-size="20px" color="grey">Contact us DLT-WW-CYBERDEFENCE@ma.webhelp.com </mj-text>     
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="grey">
-      <mj-column>
-        <mj-text align="center">Stay in touch!</mj-text>
-        <mj-social mode="horizontal">
-          <mj-social-element name="twitter"></mj-social-element>
-          <mj-social-element name="facebook"></mj-social-element>
-        </mj-social>
+        <mj-text align="left" font-size="20px" color="white"> Contact us DLT-WW-CYBERDEFENCE@ma.webhelp.com </mj-text>     
       </mj-column>
     </mj-section>
   </mj-body>
