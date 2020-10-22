@@ -18,9 +18,7 @@
         <!-- Entry -->
         <mj-section background-color="white">
           <mj-column>
-            <mj-text>
-              <a href="{{this.link}}">{{this.title}}</a>
-            </mj-text>
+
             <mj-text>{{{this.content}}}</mj-text>
             <mj-divider></mj-divider>
           </mj-column>
