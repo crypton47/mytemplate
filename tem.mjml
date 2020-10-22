@@ -3,7 +3,7 @@
     <mj-raw>
       <!-- Article -->
     </mj-raw>
-    <mj-section background-color="white">
+    <mj-section background-color="#572C64">
       <mj-column width="500px">
         <mj-image src="https://mjml.io/assets/img/responsive.png" width="100px"></mj-image>
       </mj-column>
