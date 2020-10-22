@@ -12,15 +12,7 @@
       </mj-column>
     </mj-section>
 
-      
-      {{#each feeds}}
-      <!-- Feed Divider -->
-      <mj-section>
-        <mj-column>
-          <mj-text font-size="24px" padding-top="20px">{{this.title}}</mj-text>
-          <mj-text padding-bottom="20px">{{this.description}}</mj-text>
-        </mj-column>
-      </mj-section>
+     
 
       {{#each items}}
         <!-- Entry -->
