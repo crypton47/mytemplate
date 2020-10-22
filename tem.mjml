@@ -8,7 +8,7 @@
         <mj-image align="left" src="https://raw.githubusercontent.com/crypton47/mytemplate/main/logo3.png?raw=true" width="100" height="100"  >
       </mj-column>
           <mj-column width="500px">
-           <mj-text align="center" font-size="30px" color="white"> Avis de Securite </mj-text>
+           <mj-text align="center" font-size="30px" color="white"> Vulnerablity news </mj-text>
       </mj-column>
     </mj-section>
 
