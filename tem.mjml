@@ -11,9 +11,34 @@
         <mj-text align="center" font-size="30px" color="grey"> Avis de Securite </mj-text>
       </mj-column>
     </mj-section>
-    <mj-raw>
-      <!-- Editor -->
-    </mj-raw>
+
+      
+      {{#each feeds}}
+      <!-- Feed Divider -->
+      <mj-section>
+        <mj-column>
+          <mj-text font-size="24px" padding-top="20px">{{this.title}}</mj-text>
+          <mj-text padding-bottom="20px">{{this.description}}</mj-text>
+        </mj-column>
+      </mj-section>
+
+      {{#each items}}
+        <!-- Entry -->
+        <mj-section>
+          <mj-column>
+            <mj-text>
+              <a href="{{this.link}}">{{this.title}}</a>
+            </mj-text>
+            <mj-text>{{{this.content}}}</mj-text>
+            <mj-divider></mj-divider>
+          </mj-column>
+        </mj-section>
+      {{/each}}
+
+    {{/each}}
+      
+      
+    
     <mj-section padding-bottom="0px" background-color="#f3f3f3">
       <mj-column>
         <mj-text align="center" font-size="20px" color="rgb(165, 176, 184)">Explore our new features</mj-text>
