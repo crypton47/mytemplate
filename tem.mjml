@@ -4,10 +4,10 @@
       <!-- Article -->
     </mj-raw>
     <mj-section background-color="grey"  >
-        <mj-column width="500px">
-        <mj-image align="left" src="https://raw.githubusercontent.com/crypton47/mytemplate/main/logo3.png?raw=true" >
+        <mj-column width="30px">
+        <mj-image align="left" src="https://raw.githubusercontent.com/crypton47/mytemplate/main/logo3.png?raw=true"  >
       </mj-column>
-          <mj-column width="500px">
+          <mj-column width="30px">
            <mj-text align="center" font-size="30px" color="white"> Avis de Securite </mj-text>
       </mj-column>
     </mj-section>
