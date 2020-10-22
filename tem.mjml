@@ -8,8 +8,8 @@
         <mj-image src="https://mjml.io/assets/img/responsive.png" width="100px"></mj-image>
       </mj-column>
       <mj-column width="350px">
-        <mj-text align="left" font-size="20px" color="grey">Avis de Security </mj-text>
-        <mj-text align="left" color="grey"> Avis de Securite </mj-text>
+       
+        <mj-text align="left" font-size="40px" color="grey"> Avis de Securite </mj-text>
       </mj-column>
     </mj-section>
     <mj-raw>
