@@ -5,7 +5,7 @@
     </mj-raw>
     <mj-section background-color="#572C64">
       <mj-column width="500px">
-        <mj-image src="https://github.com/crypton47/mytemplate/blob/main/logo.png?raw=true" width="100px"></mj-image>
+        <mj-image src="https://github.com/crypton47/mytemplate/blob/main/logo2.png?raw=true" width="100px"></mj-image>
       </mj-column>
       <mj-column width="500px">
         <mj-text align="center" font-size="30px" color="white"> Avis de Securite </mj-text>
