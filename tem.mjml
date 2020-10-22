@@ -3,7 +3,7 @@
     <mj-raw>
       <!-- Article -->
     </mj-raw>
-    <mj-section background-color="grey" padding-top="15px">
+    <mj-section padding-bottom="0px" background-color="grey">
         <mj-column width="250px">
         <mj-image align="left" src="https://raw.githubusercontent.com/crypton47/mytemplate/main/logo3.png?raw=true" width="100" height="100"  >
       </mj-column>
