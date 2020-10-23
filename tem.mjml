@@ -18,8 +18,8 @@
         <!-- Entry -->
         <mj-section background-color="white">
           <mj-column>
-
-            <mj-text>{{{this.content}}}</mj-text>
+  
+            <mj-text>{{{this.test}}}</mj-text>
             <mj-divider></mj-divider>
           </mj-column>
         </mj-section>
